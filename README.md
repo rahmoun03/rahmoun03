@@ -11,7 +11,7 @@ I’m a student at 1337 school, where I’m learning about algorithms and data s
 </p>
 
 <div style="margin-top: 10px">
-   <a align="left" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/arahmoun" alt="arahmoun's 42 stats" /></a>
+   <a align="left" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/arahmoun" alt="arahmoun's 42 stats" /></a>
 </div>
 
 
