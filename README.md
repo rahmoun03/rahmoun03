@@ -18,6 +18,13 @@ I’m a student at 1337 school, where I’m learning about algorithms and data s
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arahmoun&show_icons=true&locale=en&layout=compact" alt="arahmoun" /></p> -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arahmoun&theme=dark)](https://git.io/streak-stats) -->
+!Anurag's GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arahmoun&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=arahmoun3&label=Visitors+Count&color=green)
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arahmoun&show_icons=true&locale=en" alt="arahmoun" /></p> -->
+
  ---
  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=rahmoun03)
