@@ -7,8 +7,6 @@
 I’m a student at 1337 school, where I’m learning about algorithms and data structures. I have a passion for mobile and web application development, and I’m always looking for new projects to work on.
 
 
-  
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmoun03&label=Profile%20views&color=0e75b6&style=flat" alt="rahmoun03" /> </p>
 
