@@ -23,12 +23,12 @@ I’m a student at 1337 school, where I’m learning about algorithms and data s
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmoun03&show_icons=true&locale=en" alt="rahmoun03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmoun03&" alt="rahmoun03" /></p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmoun03&show_icons=true&locale=en&layout=compact" alt="rahmoun03" /></p> -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahmoun03&theme=dark)](https://git.io/streak-stats) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmoun03&show_icons=true&locale=en&layout=compact" alt="rahmoun03" /></p> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahmoun03&theme=dark)](https://git.io/streak-stats)
 !Anurag's GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmoun03&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=rahmoun033&label=Visitors+Count&color=green)
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmoun03&show_icons=true&locale=en" alt="rahmoun03" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmoun03&show_icons=true&locale=en" alt="rahmoun03" /></p>
 
  ---
  
