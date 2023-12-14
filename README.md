@@ -22,9 +22,6 @@ I’m a student at 1337 school, where I’m learning about algorithms and data s
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmoun03&show_icons=true&locale=en" alt="rahmoun03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmoun03&" alt="rahmoun03" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmoun03&show_icons=true&locale=en&layout=compact" alt="rahmoun03" /></p> -->
-
  ---
  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=rahmoun03)
