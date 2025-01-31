@@ -4,7 +4,7 @@
 
 <p align="center">
  
-I’m a student at 1337 school, where I’m learning about algorithms and data structures. I have a passion for mobile and web application development, and I’m always looking for new projects to work on.
+I’m a student at 1337 school, where I’m learning about algorithms and data structures. I have a passion for web application development, and I’m always looking for new projects to work on.
 
 
 
